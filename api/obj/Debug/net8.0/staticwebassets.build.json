@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "B3q+0YdfmcoWYRnHHBJMi1lLj9qKo7heveJlr7O6pgE=",
+  "Source": "ServiceNowAPI",
+  "BasePath": "_content/ServiceNowAPI",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "i7D/dzcMjWbyGibJPG1YpObIRwO2NICUByp3A9UEthXvdySXYv30wkc7dPydEomfZwk20uBVaKk26JGLI8viTg==",
+  "success": true,
+  "projectFilePath": "/home/fedorauser/learning/snow-tx/api/ServiceNowAPI.csproj",
+  "expectedPackageFiles": [
+    "/home/fedorauser/.nuget/packages/microsoft.extensions.apidescription.server/6.0.5/microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
+    "/home/fedorauser/.nuget/packages/microsoft.openapi/1.6.14/microsoft.openapi.1.6.14.nupkg.sha512",
+    "/home/fedorauser/.nuget/packages/swashbuckle.aspnetcore/6.6.2/swashbuckle.aspnetcore.6.6.2.nupkg.sha512",
+    "/home/fedorauser/.nuget/packages/swashbuckle.aspnetcore.swagger/6.6.2/swashbuckle.aspnetcore.swagger.6.6.2.nupkg.sha512",
+    "/home/fedorauser/.nuget/packages/swashbuckle.aspnetcore.swaggergen/6.6.2/swashbuckle.aspnetcore.swaggergen.6.6.2.nupkg.sha512",
+    "/home/fedorauser/.nuget/packages/swashbuckle.aspnetcore.swaggerui/6.6.2/swashbuckle.aspnetcore.swaggerui.6.6.2.nupkg.sha512"
+  ],
+  "logs": []
+}
